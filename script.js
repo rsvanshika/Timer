@@ -149,7 +149,6 @@ const StopTimer = (index) => {
     tickTockAudio.pause();
   }
 };
-// done by Md Sohail Ali
-// Github Repo: https://github.com/sohaill123
+
 
 document.getElementById("set_time").addEventListener("click", () => setTime());
